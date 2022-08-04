@@ -29,3 +29,17 @@
   <samp>saat melakukan test untuk itu testing ini paling mahal biayanya.</samp>
   
   <img src="https://github.com/suardi26/Kotlin-Unit-Test/blob/main/UI%20Test.jpg" alt="Pyramid Test" width=60% height=60%/>
+  
+- <samp>Service Test (Integration Test).
+  
+  <samp>Service Test adalah test yang biasanya dilakukan di back-end dan tidak melakukan test secara menyeluruh</samp> 
+  
+  <samp>namun mengerjakan testnya setiap bagian dari integrasi aplikasi dengan software pendukungnya misalnya</samp> 
+  
+  <samp>database atau service lain yang terhubung dengan aplikasi kita. Jadi service test mengerjakan satu persatu</samp> 
+  
+  <samp>proses integrasi software pendukung dengan aplikasi kita, hal ini mengakibatkan biayanya lebih murah</samp> 
+  
+  <samp>dibanding dengan UI testing.</samp>
+  
+  <img src="[https://github.com/suardi26/Java-Unit-Test/blob/main/Service%20Test.jpg](https://github.com/suardi26/Kotlin-Unit-Test/blob/main/Service%20Test.jpg)" alt="Pyramid Test" width=60% height=60%/>
