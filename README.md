@@ -82,7 +82,7 @@
     
 ## Kotlin Test
     
-  - <samp>Kotlin sendiri mendukung pembuatan menggunakan kotlin test.</samp>
+  - <samp>Kotlin sendiri mendukung pembuatan test menggunakan kotlin test.</samp>
     
   - <samp>Kotlin test sendiri sebenarnya di belakangnya  adalah sebuah test framework yang bernama JUnit</samp>
     
