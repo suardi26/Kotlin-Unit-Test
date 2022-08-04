@@ -12,4 +12,4 @@
 - <samp>Secara garis besasr Software Testing terbagi menjadi beberapa bagian, biasanya</samp>
   <samp>digambarkan pada Pyramid Test.</samp>
   
-  <img src=https://github.com/suardi26/Kotlin-Unit-Test/blob/main/TestPyramid.jpg" alt="Pyramid Test" width=50% height=50%/>
+  <img src="https://github.com/suardi26/Kotlin-Unit-Test/blob/main/TestPyramid.jpg" alt="Pyramid Test" width=50% height=50%/>
