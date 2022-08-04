@@ -64,7 +64,7 @@
     
   <img src="https://github.com/suardi26/Kotlin-Unit-Test/blob/main/Unit%20Test.jpg" alt="Pyramid Test" width=60% height=60%/>
     
-- <samp>Unit Test.</samp>
+## <samp>Unit Test.</samp>
     
   - <samp>Unit test akan fokus menguji bagian kode program terkecil, biasanya menguji sebuah</samp>
     
@@ -80,7 +80,7 @@
     
   - <samp>Unit test bisa digunakan sebagai cara untuk meningkatkan kualitas program.</samp>
     
-- <samp>Kotlin Test</samp>
+## <samp>Kotlin Test</samp>
     
   - <samp>Kotlin sendiri mendukung pembuatan menggunakan kotlin test.</samp>
     
@@ -90,7 +90,7 @@
   
     <samp>'https://kotlinlang.org/api/latest/kotlin.test/'</samp>
     
-- <samp>JUnit.</samp>
+## <samp>JUnit.</samp>
     
   - <samp>Junit adalah test framework yang paling populer di Java.</samp>
     
@@ -104,7 +104,7 @@
     
   - <samp>Untuk detail mengenai JUnit dapat mengujungi halaman 'https://junit.org'.</samp>
     
-- <samp>Membuat Test</samp>
+## <samp>Membuat Test</samp>
     
   - <samp>Untuk membuat test di JUnit itu sederhana, kita cukup membuat class, lalu menambahkan </samp>
     
