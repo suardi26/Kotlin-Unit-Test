@@ -63,3 +63,27 @@
   <samp>tidak dibutuhkan ke database.
     
   <img src="https://github.com/suardi26/Kotlin-Unit-Test/blob/main/Unit%20Test.jpg" alt="Pyramid Test" width=60% height=60%/>
+    
+- <samp>Unit Test.</samp>
+    
+  - <samp>Unit test akan fokus menguji bagian kode program terkecil, biasanya menguji sebuah</samp>
+    
+    <samp>class dan function.</samp>
+    
+  - <samp>Unit test biasanya dibuat kecil dan cepat, oleh karena itu biasanya kode unit test lebih banyak</samp>
+    
+    <samp>dari kode program aslinya, karena semua skenario pengujian akan dicoba di unit test misalnya</samp>
+    
+    <samp>membuat suatu method maka unit testnya dibuat berbagai skenario contohnya skenario berhasil,</samp>
+    
+    <samp>gagal, dll sesuai kebutuhan pengujian.</samp>
+    
+  - <samp>Unit test bisa digunakan sebagai cara untuk meningkatkan kualitas program.</samp>
+    
+- <samp>Kotlin Test</samp>
+    
+  - <samp>Kotlin sendiri mendukung pembuatan menggunakan kotlin test.</samp>
+    
+  - <samp>Kotlin test sendiri sebenarnya di belakangnya  adalah sebuah test framework yang bernama JUnit</samp>
+    
+  - <samp>Untuk lebih jelasnya silahkan kunjungi halaman website-nya: 'https://kotlinlang.org/api/latest/kotlin.test/'</samp>
