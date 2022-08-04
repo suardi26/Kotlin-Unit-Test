@@ -42,4 +42,4 @@
   
   <samp>dibanding dengan UI testing.</samp>
   
-  <img src="[https://github.com/suardi26/Java-Unit-Test/blob/main/Service%20Test.jpg](https://github.com/suardi26/Kotlin-Unit-Test/blob/main/Service%20Test.jpg)" alt="Pyramid Test" width=60% height=60%/>
+  <img src="https://github.com/suardi26/Kotlin-Unit-Test/blob/main/Service%20Test.jpg" alt="Pyramid Test" width=60% height=60%/>
