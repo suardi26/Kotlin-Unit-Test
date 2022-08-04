@@ -27,3 +27,5 @@
   <samp>Karena testing ini melakukan test secara menyeluruh dan sistem harus berjalan secara bersamaan pada</samp>
   
   <samp>saat melakukan test untuk itu testing ini paling mahal biayanya.</samp>
+  
+  <img src="https://github.com/suardi26/Kotlin-Unit-Test/blob/main/UI%20Test.jpg" alt="Pyramid Test" width=60% height=60%/>
