@@ -89,3 +89,46 @@
   - <samp>Untuk lebih jelasnya silahkan kunjungi halaman website-nya:</samp>
   
     <samp>'https://kotlinlang.org/api/latest/kotlin.test/'</samp>
+    
+- <samp>JUnit.</samp>
+    
+  - <samp>Junit adalah test framework yang paling populer di Java.</samp>
+    
+  - <samp>Untuk implementasi unit test tidak bisa menggunakan bawaan java karena bawaan java tidak terdapat</samp>
+    
+    <samp>testing frameworknya namun memerlukan library.</samp>
+    
+  - <samp>Library yang digunakan untuk melakukan unit test adalah JUnit & TestNG.</samp>
+    
+  - <samp>Untuk JUnit 5 membutuhkan java minimal versi 8.</samp>
+    
+  - <samp>Untuk detail mengenai JUnit dapat mengujungi halaman 'https://junit.org'.</samp>
+    
+- <samp>Membuat Test</samp>
+    
+  - <samp>Untuk membuat test di JUnit itu sederhana, kita cukup membuat class, lalu menambahkan </samp>
+    
+    <samp>function-function test-nya.</samp>
+    
+  - <samp>Function akan dianggap sebuah test jika ditambahkan annotation @Test.</samp>
+    
+  - <samp>Kode Test disimpan dibagian test folder pada gradle, bukan di main folder.</samp>
+    
+  - <samp>Biasanya saat membuat class untuk test, nama class-nya sama dengan nama class yang akan di-Test,</samp> 
+      
+    <samp>namun diakhiri dengan kata Test, misal jika nama class-nya adalah Product, maka nama</samp> 
+      
+    <samp>class test-nya adalah ProductTest.</samp>
+    
+      
+### Software :
+
+ - <a href="https://www.jetbrains.com/idea/download/?from=SafeEyes#section=windows" target="blank"><img align="center" src="https://img.icons8.com/material/144/000000/intellij-idea.png" height="30" width="30" />&nbsp;&nbsp;&nbsp;IntelliJ IDEA Community Edition 2021.2.3.</a>
+
+### Social Media :
+<p align="left">
+<a href="https://fb.com/suardi.daudmanda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="suardi.daudmanda" height="30" width="40" /></a>
+<a href="https://instagram.com/soeardi_26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="soeardi_26" height="30" width="40" /></a>
+<a href="mailto:suardi260696@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="suardi260696@gmail.com" height="30" width="40" /></a>
+</p>
+
