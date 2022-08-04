@@ -16,7 +16,7 @@
   
   <img src="https://github.com/suardi26/Kotlin-Unit-Test/blob/main/TestPyramid.jpg" alt="Pyramid Test" width=50% height=50%/>
 
-- <samp>UI Test (End To End Test).
+- <samp>UI Test (End To End Test).</samp>
 
   <samp>UI Test adalah test yang dilakukan menyeluruh atau dari ujung depan ke ujung akhir,</samp>
   
@@ -30,7 +30,7 @@
   
   <img src="https://github.com/suardi26/Kotlin-Unit-Test/blob/main/UI%20Test.jpg" alt="Pyramid Test" width=60% height=60%/>
   
-- <samp>Service Test (Integration Test).
+- <samp>Service Test (Integration Test).</samp>
   
   <samp>Service Test adalah test yang biasanya dilakukan di back-end dan tidak melakukan test secara menyeluruh</samp> 
   
@@ -44,7 +44,7 @@
   
   <img src="https://github.com/suardi26/Kotlin-Unit-Test/blob/main/Service%20Test.jpg" alt="Pyramid Test" width=60% height=60%/>
   
-- <samp>Unit Test.
+- <samp>Unit Test.</samp>
 
   <samp>Pada saat membuat aplikasi, maka aplikasi tersebut terbagi dalam beberapa bagian yaitu layer atau class.</samp>
 
@@ -60,11 +60,11 @@
 
   <samp>menjalankan aplikasinya. Dan meskipun aplikasi connect ke database namun ketika melakukan unit test</samp> 
 
-  <samp>tidak dibutuhkan ke database.
+  <samp>tidak dibutuhkan ke database.</samp>
     
   <img src="https://github.com/suardi26/Kotlin-Unit-Test/blob/main/Unit%20Test.jpg" alt="Pyramid Test" width=60% height=60%/>
     
-## <samp>Unit Test.</samp>
+## Unit Test
     
   - <samp>Unit test akan fokus menguji bagian kode program terkecil, biasanya menguji sebuah</samp>
     
@@ -80,7 +80,7 @@
     
   - <samp>Unit test bisa digunakan sebagai cara untuk meningkatkan kualitas program.</samp>
     
-## <samp>Kotlin Test</samp>
+## Kotlin Test
     
   - <samp>Kotlin sendiri mendukung pembuatan menggunakan kotlin test.</samp>
     
@@ -90,7 +90,7 @@
   
     <samp>'https://kotlinlang.org/api/latest/kotlin.test/'</samp>
     
-## <samp>JUnit.</samp>
+## JUnit
     
   - <samp>Junit adalah test framework yang paling populer di Java.</samp>
     
@@ -104,7 +104,7 @@
     
   - <samp>Untuk detail mengenai JUnit dapat mengujungi halaman 'https://junit.org'.</samp>
     
-## <samp>Membuat Test</samp>
+## Membuat Test
     
   - <samp>Untuk membuat test di JUnit itu sederhana, kita cukup membuat class, lalu menambahkan </samp>
     
